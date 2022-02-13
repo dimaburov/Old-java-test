@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HashMapTest" tests="49" skipped="0" failures="0" errors="0" timestamp="2021-04-12T13:00:48" hostname="DESKTOP-3HQBDQU" time="0.426">
+  <properties/>
+  <testcase name="PutGetTest(int)[1]" classname="HashMapTest" time="0.164"/>
+  <testcase name="PutGetTest(int)[2]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetTest(int)[3]" classname="HashMapTest" time="0.001"/>
+  <testcase name="NullTest()" classname="HashMapTest" time="0.003"/>
+  <testcase name="ReplacingAValueTest(int)[1]" classname="HashMapTest" time="0.006"/>
+  <testcase name="ReplacingAValueTest(int)[2]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ReplacingAValueTest(int)[3]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[1]" classname="HashMapTest" time="0.002"/>
+  <testcase name="ClearTest(Object)[2]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[3]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[4]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[5]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[6]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[7]" classname="HashMapTest" time="0.002"/>
+  <testcase name="ClearTest(Object)[8]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[9]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[10]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[11]" classname="HashMapTest" time="0.0"/>
+  <testcase name="ClearTest(Object)[12]" classname="HashMapTest" time="0.002"/>
+  <testcase name="ClearTest(Object)[13]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[14]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[15]" classname="HashMapTest" time="0.004"/>
+  <testcase name="ClearTest(Object)[16]" classname="HashMapTest" time="0.002"/>
+  <testcase name="ClearTest(Object)[17]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[18]" classname="HashMapTest" time="0.005"/>
+  <testcase name="ClearTest(Object)[19]" classname="HashMapTest" time="0.002"/>
+  <testcase name="ClearTest(Object)[20]" classname="HashMapTest" time="0.001"/>
+  <testcase name="ClearTest(Object)[21]" classname="HashMapTest" time="0.003"/>
+  <testcase name="PutGetObjectTest(Object)[1]" classname="HashMapTest" time="0.004"/>
+  <testcase name="PutGetObjectTest(Object)[2]" classname="HashMapTest" time="0.004"/>
+  <testcase name="PutGetObjectTest(Object)[3]" classname="HashMapTest" time="0.002"/>
+  <testcase name="PutGetObjectTest(Object)[4]" classname="HashMapTest" time="0.003"/>
+  <testcase name="PutGetObjectTest(Object)[5]" classname="HashMapTest" time="0.004"/>
+  <testcase name="PutGetObjectTest(Object)[6]" classname="HashMapTest" time="0.004"/>
+  <testcase name="PutGetObjectTest(Object)[7]" classname="HashMapTest" time="0.002"/>
+  <testcase name="PutGetObjectTest(Object)[8]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[9]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[10]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[11]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[12]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[13]" classname="HashMapTest" time="0.0"/>
+  <testcase name="PutGetObjectTest(Object)[14]" classname="HashMapTest" time="0.003"/>
+  <testcase name="PutGetObjectTest(Object)[15]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[16]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[17]" classname="HashMapTest" time="0.0"/>
+  <testcase name="PutGetObjectTest(Object)[18]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[19]" classname="HashMapTest" time="0.002"/>
+  <testcase name="PutGetObjectTest(Object)[20]" classname="HashMapTest" time="0.001"/>
+  <testcase name="PutGetObjectTest(Object)[21]" classname="HashMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
